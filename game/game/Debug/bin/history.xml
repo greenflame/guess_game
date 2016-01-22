@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m3 -mthumb -g2 -Map=game.map -O0 --gc-sections -LC:\Users\Serge.SCRED\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\game -TC:\Users\Serge.SCRED\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\game/arm-gcc-link.ld -g">
+      <target file="game.elf" lastModified="15254279b0d">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1525417cd1e"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="1525417d10c"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1525417d0c6"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="1525417d055"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1525417cf87"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="1525417d261"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="1525417d49e"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="1525417ce9a"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="1525417d2ac"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="1525417d35e"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="1525417d59f"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="1525417cf14"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="1525417d3aa"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="1525417cd75"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="1525417d1f8"/>
+         <source file="..\obj\startup_stm32f10x_hd.o" lastModified="1525417cdd8"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="1525417cfd1"/>
+         <source file="..\obj\misc.o" lastModified="1525417d3ef"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="1525417d509"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="1525417cbbf"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="1525417d550"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="1525417d432"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1525417cdc9"/>
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="1525417ce4b"/>
+         <source file="..\obj\main.o" lastModified="15254279925"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="1525417d189"/>
+      </target>
+   </processor>
+</history>
